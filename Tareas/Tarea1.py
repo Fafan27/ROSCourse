@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 class Robot:
     robot_name = "robot_name"
     def datos(self):
