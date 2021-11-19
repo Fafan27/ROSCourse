@@ -51,10 +51,8 @@ manipulador de **5 grados** de libertad más uno más llamado **base** (eslabón
 
 Conclusiones o cierre al trabajo realizado.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
-tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
-vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
-no sea takimata sanctus est Lorem ipsum dolor sit amet [[3]](#3). **<- referencia insertada en el párrafo** . 
+Realizar esta actividad implica el conocimiento adquirido de los videos, sin embargo, hay elementos en los cuales mediante la práctica
+o investigación se pueden resolver de una manera mas acertada.
 
 ## Autor
 
