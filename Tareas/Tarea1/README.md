@@ -67,4 +67,4 @@ _Referencia con url externo visible_
 - Python Tutorial for Beginners - Learn Python in 5 Hours [FULL COURSE] <https://youtu.be/t8pPdKYpowI>
 - Python Full Course 🐍 <https://www.youtube.com/watch?v=LzYNWme1W6Q>
 - TypeError : 'list' object cannot be interpreted as an integer <https://stackoverflow.com/questions/28036309/typeerror-list-object-cannot-be-interpreted-as-an-integer>
-- Llamar a un método desde otro dentro de la misma clase en Python <it-swarm-es.com/es/python/llamar-un-metodo-desde-otro-dentro-de-la-misma-clase-en-python/1047908497>
+- Llamar a un método desde otro dentro de la misma clase en Python <https://it-swarm-es.com/es/python/llamar-un-metodo-desde-otro-dentro-de-la-misma-clase-en-python/1047908497>
