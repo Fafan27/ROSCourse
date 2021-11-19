@@ -65,6 +65,7 @@ while bandera == True:
     print("3. Obtener el valor de una articulación")
     print("4. Obtener los valores de la pose")
     print("5. Salir")
+    print("__main__")
     __name__ = input("Introduzca la opción deseada: ")
     if __name__ == "1":
         print("****Ingreso de datos****")
