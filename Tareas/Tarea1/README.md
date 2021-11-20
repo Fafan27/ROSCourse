@@ -45,14 +45,21 @@ Subir un programa de Python con las siguientes caracter´sitcas:
 - Todas las variables deben ser **inicializadas** con valores en el **constructor** para un 
 manipulador de **5 grados** de libertad más uno más llamado **base** (eslabón 0).
 - Un método llamado **set_name(robot_name)** para cambiar el nombre del robor.
-- Un método llamado **get_articulacion(articulacion_nombre)** que devuelva el valor de la articulación **articulación_nombre**
+- Un método llamado **get_articulacion(articulacion_nombre)** que devuelva el valor de la articulación **articulación_nombre.**
+- Un método llamado **get_Pose()** que devuelva el objeto **Pose.**
+- El script debe tener un punto de entrada usando **if __name__ == '__main__':** llamando a una función **main**
+que pruebe las características y funcioones listadas anteriormente.
+- Agregar un archivo Readme.md, utilizando la plantilla **README.md** con la información necesaria del repositorio de GitHub adjunto a este mensaje.
+
+**Restricciones**
+- El número de articulaciones y sus valores debe ser el mismo.
 
 ## Conclusiones
 
 Conclusiones o cierre al trabajo realizado.
 
 Realizar esta actividad implica el conocimiento adquirido de los videos, sin embargo, hay elementos en los cuales mediante la práctica
-o investigación se pueden resolver de una manera mas acertada.
+o investigación se pueden resolver de una manera mas acertada. Opte por el uso de un meno, de manera que al ejecutar el programa se tuviera la opción de navegar sobre los diferentes métodos y objetos, esto facilita el uso del programa así como la parte visual y cognitiva de los datos ingresados.
 
 ## Autor
 
